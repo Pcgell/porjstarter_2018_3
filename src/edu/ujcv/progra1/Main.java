@@ -3,7 +3,7 @@ package edu.ujcv.progra1;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello world");
-        System.out.println();
+	// write your code here
+        System.out.println("hola mundo!");
     }
 }
