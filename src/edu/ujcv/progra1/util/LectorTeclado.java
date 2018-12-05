@@ -1,4 +1,4 @@
-package Lector;
+package edu.ujcv.progra1.util;
 
 import java.util.Scanner;
 
