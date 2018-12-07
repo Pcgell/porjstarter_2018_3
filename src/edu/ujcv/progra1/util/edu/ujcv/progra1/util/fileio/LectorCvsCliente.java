@@ -18,7 +18,7 @@ public class LectorCvsCliente {
     private static final int CLIENT_LNAME_IDX = 2;
     private static final int CLIENT_CODCLIE_IDX = 3;
 
-    public static ArrayList<Cliente> readCsvFile(String fileName ) {
+    public static ArrayList<Cliente> readCsvFile(String fileName) {
 
         BufferedReader fileReader = null;
         ArrayList<Cliente> clientes = new ArrayList();
